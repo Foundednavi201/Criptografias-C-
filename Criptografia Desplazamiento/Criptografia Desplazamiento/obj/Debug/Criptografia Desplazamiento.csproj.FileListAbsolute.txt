@@ -1,0 +1,11 @@
+C:\Users\navir\Desktop\Programas Criptografías\Criptografia Desplazamiento\Criptografia Desplazamiento\bin\Debug\Criptografia Desplazamiento.exe.config
+C:\Users\navir\Desktop\Programas Criptografías\Criptografia Desplazamiento\Criptografia Desplazamiento\bin\Debug\Criptografia Desplazamiento.exe
+C:\Users\navir\Desktop\Programas Criptografías\Criptografia Desplazamiento\Criptografia Desplazamiento\bin\Debug\Criptografia Desplazamiento.pdb
+C:\Users\navir\Desktop\Programas Criptografías\Criptografia Desplazamiento\Criptografia Desplazamiento\obj\Debug\Criptografia Desplazamiento.csproj.AssemblyReference.cache
+C:\Users\navir\Desktop\Programas Criptografías\Criptografia Desplazamiento\Criptografia Desplazamiento\obj\Debug\Criptografia Desplazamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\navir\Desktop\Programas Criptografías\Criptografia Desplazamiento\Criptografia Desplazamiento\obj\Debug\Criptografia_Desplazamiento.frmPrincipal.resources
+C:\Users\navir\Desktop\Programas Criptografías\Criptografia Desplazamiento\Criptografia Desplazamiento\obj\Debug\Criptografia_Desplazamiento.Properties.Resources.resources
+C:\Users\navir\Desktop\Programas Criptografías\Criptografia Desplazamiento\Criptografia Desplazamiento\obj\Debug\Criptografia Desplazamiento.csproj.GenerateResource.cache
+C:\Users\navir\Desktop\Programas Criptografías\Criptografia Desplazamiento\Criptografia Desplazamiento\obj\Debug\Criptografia Desplazamiento.csproj.CoreCompileInputs.cache
+C:\Users\navir\Desktop\Programas Criptografías\Criptografia Desplazamiento\Criptografia Desplazamiento\obj\Debug\Criptografia Desplazamiento.exe
+C:\Users\navir\Desktop\Programas Criptografías\Criptografia Desplazamiento\Criptografia Desplazamiento\obj\Debug\Criptografia Desplazamiento.pdb

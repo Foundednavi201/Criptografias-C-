@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a264a32-73f2-42e2-ac8c-5f883be3ae92": {
+      "ProjectGuid": "9a264a32-73f2-42e2-ac8c-5f883be3ae92",
+      "DisplayName": "Criptografia Desplazamiento",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
